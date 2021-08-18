@@ -1,0 +1,36 @@
+#tb1 {
+    background-color: #000033;
+}
+table, th, td {
+   border: 1px solid black;
+  width: 766px;
+  height: 36px;   
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #fff;
+}
+.origem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:#280;
+    font-size: 15px;
+    background-color: #fff;
+}
+.resumo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    font-size: 12px;
+}
+.rodape{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 11px;
+    text-align: center;
+    background-color: #cfb;
+
+}
